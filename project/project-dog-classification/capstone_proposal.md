@@ -126,6 +126,7 @@ Labeled Faces in the Wild: A Database for Studying Face Recognition in Unconstra
 - [CNN benchmark 1](https://github.com/alyato/CNN-models-comparison)
 - [CNN benchmark 2](https://github.com/jcjohnson/cnn-benchmarks#alexnet)
 - [pytorch models](https://pytorch.org/docs/master/torchvision/models.html)
+“Torchvision.models.” Torchvision.models - PyTorch Master Documentation, pytorch.org/docs/master/torchvision/models.html.
 - [training/validation plot](https://qiita.com/hiroyuki827/items/213146d551a6e2227810)
 - [Dog breed methods](https://towardsdatascience.com/dog-breed-classification-hands-on-approach-b5e4f88c333e)
 - [Kaggle dog breed](https://www.kaggle.com/c/dog-breed-identification/data)
@@ -139,8 +140,20 @@ Now, in the case of top-1 score, you check if the top class (the one having the 
 In the case of top-5 score, you check if the target label is one of your top 5 predictions (the 5 ones with the highest probabilities).
 In both cases, the top score is computed as the times a predicted label matched the target label, divided by the number of data-points evaluated.
 Finally, when 5-CNNs are used, you first average their predictions and follow the same procedure for calculating the top-1 and top-5 scores.
-
-
-
-
-
+- [Animal detection example] Norouzzadeh, Mohammad Sadegh, et al. “Automatically Identifying, Counting, and Describing Wild Animals in Camera-Trap Images with Deep Learning.” Proceedings of the National Academy of Sciences, vol. 115, no. 25, 2018, doi:10.1073/pnas.1719367115.
+-[OpenCV](https://opencv.org/)
+“OpenCV.” OpenCV, opencv.org/.
+- [harcascade feature]
+"haarcascade frontalface" OpenCV, https://github.com/opencv/opencv/tree/master/data/haarcascades.
+Viola, P., and M. Jones. “Rapid Object Detection Using a Boosted Cascade of Simple Features.” Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. CVPR 2001, 15 Apr. 2003, doi:10.1109/cvpr.2001.990517.
+- [ImageNet](www.image-net.org/) 
+“ImageNet.” ImageNet, www.image-net.org/.
+- [Summary of techniques](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
+Krizhevsky, Alex, et al. “ImageNet Classification with Deep Convolutional Neural Networks - Semantic Scholar.” Undefined, 1 Jan. 1970, www.semanticscholar.org/paper/ImageNet-Classification-with-Deep-Convolutional-Krizhevsky-Sutskever/2315fc6c2c0c4abd2443e26a26e7bb86df8e24cc.
+- [Inception-v3](https://arxiv.org/abs/1512.00567) 
+Szegedy, Christian, et al. “Rethinking the Inception Architecture for Computer Vision.” 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, doi:10.1109/cvpr.2016.308.
+- [ResNet]
+He, Kaiming, et al. “Deep Residual Learning for Image Recognition.” 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, doi:10.1109/cvpr.2016.90.
+- [Inception-v3 survey](https://medium.com/@sh.tsang/review-inception-v3-1st-runner-up-image-classification-in-ilsvrc-2015-17915421f77c)
+- [Udacity dog_app.ipynb](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/project-dog-classification/dog_app.ipynb)
+Udacity. “Udacity/Deep-Learning-v2-Pytorch.” GitHub, 28 May 2019, github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification.
