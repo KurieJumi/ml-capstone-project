@@ -157,3 +157,5 @@ He, Kaiming, et al. “Deep Residual Learning for Image Recognition.” 2016 IEE
 - [Inception-v3 survey](https://medium.com/@sh.tsang/review-inception-v3-1st-runner-up-image-classification-in-ilsvrc-2015-17915421f77c)
 - [Udacity dog_app.ipynb](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/project-dog-classification/dog_app.ipynb)
 Udacity. “Udacity/Deep-Learning-v2-Pytorch.” GitHub, 28 May 2019, github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification.
+- [Azure Machine Learning](https://github.com/Azure/MachineLearningNotebooks)
+- [MLA format online](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_general_format.html) Create citation for book, magazine, newspaper, website, journal, film, other for free!
