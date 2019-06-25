@@ -1,0 +1,12 @@
+# Ignore image files
+*/dogImages
+*/lfw
+
+# Ignore zip files
+*.zip
+
+# Others
+.ipynb_checkpoints
+__MACOSX
+.DS_Store
+
